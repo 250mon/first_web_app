@@ -71,6 +71,7 @@ def main():
     subheader_template = """
     <div style="background-color: cyan; padding: 8px;">
     <h3 style="color: blue">Powered by Streamlit</h3>
+    <h3 style="color: blue">Maintained by Danaul</h3>
     </div>
     """
     st.markdown(subheader_template, unsafe_allow_html=True)
